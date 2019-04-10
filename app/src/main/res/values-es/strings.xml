@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="create">Crear Contacto</string>
+    <string name="list">Listar Contacto</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="phone">Telefono</string>
+    <string name="cellphone">Celular</string>
+    <string name="save">Grabar</string>
+    <string name="done">Guardado Exitoso</string>
+    <string name="errorname">No ha Digitado un Nombre</string>
+    <string name="errorlastname">No ha Digitado un Apellido</string>
+    <string name="errorphone">No ha Digitado un Telefono</string>
+    <string name="errorcellphone">No ha Digitado un Correo</string>
+    <string name="contacts">contactos</string>
+    <string name="no_records">no ha guardado</string>
+    <string name="fiel_empty">debe digitar un dato</string>
+</resources>

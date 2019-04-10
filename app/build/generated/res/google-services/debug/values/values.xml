@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">498932346116-4hlg6v40tntoaii0r72utjpnqm4tvshs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://agenda-fc537.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">498932346116</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4Ign80WfZrgfphcsUpaEkb4K9G5RJwM0</string>
+    <string name="google_app_id" translatable="false">1:498932346116:android:1dab5c346c5da81a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4Ign80WfZrgfphcsUpaEkb4K9G5RJwM0</string>
+    <string name="google_storage_bucket" translatable="false">agenda-fc537.appspot.com</string>
+    <string name="project_id" translatable="false">agenda-fc537</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498932346116",
+    "firebase_url": "https://agenda-fc537.firebaseio.com",
+    "project_id": "agenda-fc537",
+    "storage_bucket": "agenda-fc537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498932346116:android:1dab5c346c5da81a",
+        "android_client_info": {
+          "package_name": "com.example.contactagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498932346116-85o16j8mjj74c8tcm02gffonqieccepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactagenda",
+            "certificate_hash": "9f29172807df235503f3c5754b10a3c65bb8c56d"
+          }
+        },
+        {
+          "client_id": "498932346116-4hlg6v40tntoaii0r72utjpnqm4tvshs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Ign80WfZrgfphcsUpaEkb4K9G5RJwM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498932346116-4hlg6v40tntoaii0r72utjpnqm4tvshs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
